@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on  web delevloprs
 - 🤔 I’m looking for help with  javacript and php
 - 💬 Ask me about ...front-end desgins and UL/UX Adobe XD
-- 📫 How to reach me: ...[website](https://www.tim2k.xyz/)
+- 📫 How to reach me: ...[www.tim2k.xyz](https://www.tim2k.xyz/)
 - 😄 Pronouns: ...he / him
 - ⚡ Fun fact: ...almost there!!!😄😄😄😄😄😄😄😄😄
 -->
