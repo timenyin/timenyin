@@ -12,8 +12,15 @@
 - 🌱 I’m currently learning Javascript 👋👋👋🤣😃
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: To Showcase the range of my works with this tools HTML5  CSS3, JAVASCRIPT, and ADOBE XD.
-- ⚡ Fun fact: I love🤣😃 to Video Games🤣🤣🤣
-
+- ⚡ Fun fact:love🤣😃 Coding🤣🤣🤣
+- 🔭 I’m currently working on some Javascript coding
+- 🌱 I’m currently learning  full front-end web-delevlopment 
+- 👯 I’m looking to collaborate on  web delevloprs
+- 🤔 I’m looking for help with  javacript and php
+- 💬 Ask me about ...front-end desgins and UL/UX Adobe XD
+- 📫 How to reach me: ...[www.tim2k.xyz](https://www.tim2k.xyz/)
+- 😄 Pronouns: ...he / him
+- ⚡ Fun fact: ...almost there!!!😄😄😄😄😄😄😄😄😄
 
 ### Languages and Tools:
 
@@ -32,18 +39,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-<br />
-<br />
 
 
-
-
-- 🔭 I’m currently working on some Javascript coding
-- 🌱 I’m currently learning  full front-end web-delevlopment 
-- 👯 I’m looking to collaborate on  web delevloprs
-- 🤔 I’m looking for help with  javacript and php
-- 💬 Ask me about ...front-end desgins and UL/UX Adobe XD
-- 📫 How to reach me: ...[www.tim2k.xyz](https://www.tim2k.xyz/)
-- 😄 Pronouns: ...he / him
-- ⚡ Fun fact: ...almost there!!!😄😄😄😄😄😄😄😄😄
 -->
