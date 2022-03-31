@@ -1,4 +1,4 @@
-### Hi there I am a Timenyin Harmony freelancer currently using my creativity to bring ideas to life in Nigeria.
+### I am a freelancer currently using my creativity to bring ideas to life in Nigeria, Edo state. My Work is based on front-end web designs along with Adobe XD on UX and UI Designs.
 
 
 
@@ -8,8 +8,8 @@
 
 ## Having designed over thirty(30) different front-End websit ranging from several categories at all levels, I am also well knowledgeable in using the UL/UX Adobe XD for my protoype.
 
-- 🔭 I’m currently working on a [VS Code Course][www.gimudia.org]!
-- 🌱 I’m currently learning Javascript 👋👋👋🤣😃
+- 🔭 I’m currently working on a [VS Code Course][https://harmony2k.000webhostapp.com/]!
+- 🌱 I’m currently learning Javascript, PHP 👋👋👋🤣😃
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: To Showcase the range of my works with this tools HTML5  CSS3, JAVASCRIPT,Node.js, MangoDB, SQL Database and ADOBE XD.
 - ⚡ Fun fact:love🤣😃 Coding🤣🤣🤣
