@@ -6,7 +6,7 @@
 ###  mechanical engineering in the university of Benin (UNIBEN) Edo state, Nigeria.👋👋
 
 
-## Having designed over thirty(30) different front-End websit ranging from several categories at all levels, I am also well knowledgeable in using the UL/UX Adobe XD for my protoype.
+## Having designed over thirty(30) different front-End website ranging from several categories at all levels, I am also well knowledgeable in using the UL/UX Adobe XD for my protoype.
 
 - 🔭 I’m currently working on a [VS Code Course][https://harmony2k.000webhostapp.com/]!
 - 🌱 I’m currently learning Javascript, PHP 👋👋👋🤣😃
