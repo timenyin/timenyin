@@ -1,9 +1,9 @@
-###Hi there! 👋🏼 I'm Harmony Timenyin and I'm a freelance designer 🎨 based in Nigeria's Edo State. My focus is on bringing ideas to life through front-end web designs 💻, as well as UX and UI designs using Adobe XD. I've designed over 30 websites across various categories and levels of complexity. 
+###  Hi there! 👋🏼 I'm Harmony Timenyin and I'm a freelance designer 🎨 based in Nigeria's Edo State. My focus is on bringing ideas to life through front-end web designs 💻, as well as UX and UI designs using Adobe XD. I've designed over 30 websites across various categories and levels of complexity. 
 
 
 
-### You can check out my portfolio at [https://harmony2k.netlify.app/] 👋
-###  mechanical engineering in the university of Benin (UNIBEN) Edo state, Nigeria.👋👋
+ ### You can check out my portfolio at [https://harmony2k.netlify.app/] 👋
+mechanical engineering in the university of Benin (UNIBEN) Edo state, Nigeria.👋👋
 
 
 ## Having designed over thirty(300) different front-End website and backend ranging from several categories at all levels, I am also well knowledgeable in using the UL/UX Adobe XD and figma for my protoype.
