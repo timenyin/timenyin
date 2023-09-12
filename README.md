@@ -8,7 +8,7 @@ mechanical engineering in the university of Benin (UNIBEN) Edo state, Nigeria.�
 
 ## Having designed over thirty(300) different front-End website and backend ranging from several categories at all levels, I am also well knowledgeable in using the UL/UX Adobe XD and figma for my protoype.
 
-- 🔭 I’m currently working on a [VS Code Course][https://harmony2k.000webhostapp.com/]!
+- 🔭!
 - 🌱 I’m currently learning Javascript, PHP 👋👋👋🤣😃
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: To Showcase the range of my works with this tools HTML5  CSS3, JAVASCRIPT,Node.js, MangoDB, SQL Database and ADOBE XD.
