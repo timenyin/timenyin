@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harmony2k</h1>
-<h3 align="center">I'm a freelance designer 🎨 based in Nigeria's Edo State. My focus is on bringing ideas to life through front-end web designs 💻, as well as UX and UI designs using Adobe XD. I've designed over 30 websites across various categories and levels of complexity.</h3>
+<h3 align="center">My focus is on bringing ideas to life through front-end web designs 💻, as well as UX and UI designs using Adobe XD. I've designed over 30 websites across various categories and levels of complexity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timenyin&label=Profile%20views&color=0e75b6&style=flat" alt="timenyin" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **an Hotel website for Never Fails Lit**
 
-- 👯 I’m looking to collaborate on **Web developers**
+- 👯 I’m looking to collaborate with web developers.
 
 - 👨‍💻 All of my projects are available at [https://harmony2k.netlify.app/](https://harmony2k.netlify.app/)
 
@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timenyin&show_icons=true&locale=en" alt="timenyin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timenyin&" alt="timenyin" /></p>
+
