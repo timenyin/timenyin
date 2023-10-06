@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harmony2k</h1>
-<h3 align="center">My focus is on bringing ideas to life through front-end web designs 💻, as well as UX and UI designs using Adobe XD. I've designed over 30 websites across various categories and levels of complexity.</h3>
+<h3 align="center">My focus is on bringing ideas to life through front-end web designs 💻, as well as UX and UI designs using Adobe XD. I've designed websites across various categories and levels of complexity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timenyin&label=Profile%20views&color=0e75b6&style=flat" alt="timenyin" /> </p>
 
