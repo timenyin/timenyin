@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harmony2k</h1>
-<h4 align="center">My focus is on bringing ideas to life through front-end web designs 💻, as well as UX and UI designs using Adobe XD. I've designed websites across various categories and levels of complexity.</h4>
+<h1 align="center">Hi 👋, I'm Harmony2k </h1>
+<h3 align="left">I"m a software engineer based in Nigeria, passionate about crafting elegant and scalable digital solutions for front-end and back-end systems.
+I specialize in solving complex challenges with efficient, user-focused approaches and optimizing workflows through DevOps practices.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timenyin&label=Profile%20views&color=0e75b6&style=flat" alt="timenyin" /> </p>
 
@@ -13,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.harmony2k.cfd/](https://www.harmony2k.cfd/)
 
-- 💬 Ask me about **Bootstrap, JavaScript, PHP, and UI designs AWS, React,**
+- 💬 Ask me about **Bootstrap, JavaScript, PHP, and UI designs AWS platform, React,**
 
 - 📫 How to reach me **timenyindonkunu@gmail.com**
 
@@ -34,14 +35,65 @@
 <a href="https://www.behance.net/timenyin harmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="timenyin harmony" height="30" width="40" /></a>
 </p>
 
-🚀 Technologies & Tools
-🛠 Programming Languages
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/> </p>
-🌐 Frontend Development
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" width="40" height="40" alt="GSAP"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/threejs.svg" width="40" height="40" alt="Three.js"/> </p>
-🏗 Backend Development
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nestjs.svg" width="40" height="40" alt="NestJS"/> </p>
-🛢 Database & Cloud
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="40" height="40" alt="AWS"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prisma.svg" width="40" height="40" alt="Prisma"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prismic.svg" width="40" height="40" alt="Prismic"/> </p>
-🔧 Tools & Platforms
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> </p>
+## 🚀 Technologies & Tools
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🛠 Programming Languages  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+</p>
+
+### 🌐 Frontend Development  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/threejs.svg" width="40" height="40" alt="Three.js"/>
+</p>
+
+### 🏗 Backend Development  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nestjs.svg" width="40" height="40" alt="NestJS"/>
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🛢 Database & Cloud  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prisma.svg" width="40" height="40" alt="Prisma"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prismic.svg" width="40" height="40" alt="Prismic"/>
+</p>
+
+### 🔧 Tools & Platforms  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</p>
+
+</td>
+  </tr>
+</table>
+
+</div>
+
